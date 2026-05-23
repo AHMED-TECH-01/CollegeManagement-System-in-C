@@ -1,0 +1,25 @@
+==================== Student Records ====================
+
+Roll No    Name                      Class      Department     
+----------------------------------------------------------
+101        Muhammad Anas             XI         CS             
+102        Fatima Ali                XI         PreEng         
+103        Ayesha Siddiqui           XI         PreMed         
+104        Bilal Khan                XI         Commerce       
+105        Ahmed Raza                XI         CS             
+106        Konain Khan               XI         PreEng         
+107        Usman Hanif               XI         PreMed         
+108        Maryam Noor               XI         Commerce       
+109        Zain Ali                  XI         PreEng         
+110        Hamza Tariq               XI         CS             
+201        Ali Haider                XII        CS             
+202        Laiba Naseem              XII        PreEng         
+203        Zoya Iqbal                XII        PreMed         
+204        Hammad Aslam              XII        Commerce       
+205        Noor Fatima               XII        CS             
+206        Muhammad Amir             XII        PreEng         
+207        Sana Javed                XII        PreMed         
+208        Rehan Ahmed               XII        Commerce       
+209        Amina Rafiq               XII        PreEng         
+210        Syed Abdullah Husain      XII        CS             
+==========================================================
